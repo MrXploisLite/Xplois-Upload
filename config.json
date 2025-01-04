@@ -1,0 +1,7 @@
+{
+  "port": process.env.PORT || 8080,
+  "upload_dir": "uploads",
+  "max_file_size": 33554432,
+  "allowed_extensions": [".jpg", ".jpeg", ".png", ".gif"],
+  "cleanup_interval": 300
+} 
